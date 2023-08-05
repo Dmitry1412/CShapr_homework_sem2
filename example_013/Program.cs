@@ -6,7 +6,7 @@
 */
 
 int num = int.Parse(Console.ReadLine());
-int count = 10;
+int constanta = 10;
 if (num < 100)
 {
     System.Console.WriteLine("третьей цифры нет");
